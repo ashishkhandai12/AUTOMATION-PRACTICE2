@@ -1,3 +1,2 @@
-# AUTOMATION-PRACTICE2
-auther -ashish
+# AUTOMATION-PRACTICE
 This is my first commit
